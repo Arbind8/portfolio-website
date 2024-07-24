@@ -1,0 +1,7 @@
+{
+    "deepscan.enable": true,
+    "livePreview.httpHeaders": {
+
+        "Accept-Ranges": "bytes"
+    }
+}
